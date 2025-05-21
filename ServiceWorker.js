@@ -1,9 +1,9 @@
-const cacheName = "learn-Leran_NetCode-0.1";
+const cacheName = "Magnimus-Laser Tennis-0.1.0";
 const contentToCache = [
-    "Build/NetCode.loader.js",
-    "Build/NetCode.framework.js",
-    "Build/NetCode.data",
-    "Build/NetCode.wasm",
+    "Build/c927953e9bc164eb8fe1f47d782abeb6.loader.js",
+    "Build/1420ead20126458e8dbd6669cb74510f.framework.js",
+    "Build/1d6337852686aed57561f9223c6ebe43.data",
+    "Build/874243c50fa9ac9c55735cb9623047ad.wasm",
     "TemplateData/style.css"
 
 ];
