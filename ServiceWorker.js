@@ -1,9 +1,9 @@
 const cacheName = "Magnimus-Laser Tennis-0.1.0";
 const contentToCache = [
-    "Build/c927953e9bc164eb8fe1f47d782abeb6.loader.js",
+    "Build/0443cb0b565f2da3e778394a384ad8cc.loader.js",
     "Build/1420ead20126458e8dbd6669cb74510f.framework.js",
-    "Build/1d6337852686aed57561f9223c6ebe43.data",
-    "Build/874243c50fa9ac9c55735cb9623047ad.wasm",
+    "Build/891ba57d47195b78116fb32b79e0d29f.data",
+    "Build/fe8a8c156c8584091c0aeb17f8e50f0c.wasm",
     "TemplateData/style.css"
 
 ];
