@@ -1,4 +1,4 @@
-const cacheName = "Sabi-PostApocalypticFPS-0.2";
+const cacheName = "Sabi-HungyCats-0.1.0";
 const contentToCache = [
     "Build/NetCode.loader.js",
     "Build/NetCode.framework.js",
